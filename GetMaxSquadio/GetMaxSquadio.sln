@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetMaxSquadio", "GetMaxSquadio.csproj", "{AEB82182-BB3A-42EC-B60F-B4C70B5A9EBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEB82182-BB3A-42EC-B60F-B4C70B5A9EBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEB82182-BB3A-42EC-B60F-B4C70B5A9EBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEB82182-BB3A-42EC-B60F-B4C70B5A9EBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEB82182-BB3A-42EC-B60F-B4C70B5A9EBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB1CC5DF-CF6D-41BC-A0FE-73A6A6F50A79}
+	EndGlobalSection
+EndGlobal
